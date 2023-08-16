@@ -1,0 +1,158 @@
+export const data =[
+{
+    id:1,
+    ad:'Double Cheeseburger',
+    kategori:'Burger',
+    resim:'https://images.pexels.com/photos/5908293/pexels-photo-5908293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    fiyat:'80 tl',
+},
+{
+    id:2,
+    ad:'Bacon Cheeseburger',
+    kategori:'Burger',
+    resim:'https://images.pexels.com/photos/3738762/pexels-photo-3738762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    fiyat:'85 tl',
+},
+{
+    id:3,
+    ad:'Mushroom Burger',
+    kategori:'Burger',
+    resim:'https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    fiyat:'90 tl',
+},
+{
+    id:4,
+    ad:'Loaded Burger',
+    kategori:'Burger',
+    resim:'https://images.pexels.com/photos/1251196/pexels-photo-1251196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    fiyat:'95 tl',
+},
+{
+    id:5,
+    ad:'Feta & Spinnach',
+    kategori:'Pizza',
+    resim:'https://images.pexels.com/photos/14994698/pexels-photo-14994698/free-photo-of-gida-plaka-pizza-aksam-yemegi.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    fiyat:'300 tl',
+},
+{
+    id:6,
+    ad:'Supreme Pizza',
+    kategori:'Pizza',
+    resim:'https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    fiyat:'400 tl',
+},
+{
+    id:7,
+    ad:'Meat Lovers',
+    kategori:'Pizza',
+    resim:'https://images.unsplash.com/photo-1677027472626-c7c40c74ac6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80',
+    fiyat:'500 tl',
+},
+{
+    id:8,
+    name:'Supreme Pizza',
+    kategori:'Pizza',
+    resim:'https://images.unsplash.com/photo-1681567604770-0dc826c870ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80',
+    fiyat:'500 tl',
+},
+{
+    id:9,
+    name:'Kale Salad',
+    kategori:'Salata',
+    resim:'https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=385&q=80',
+    fiyat:'600 tl',
+},
+{
+    id:10,
+    name:'Ceasar Salad',
+    kategori:'Salata',
+    resim:'https://images.pexels.com/photos/6107787/pexels-photo-6107787.jpeg?cs=srgb&dl=pexels-alleksana-6107787.jpg&fm=jpg',
+    fiyat:'650 tl',
+},
+{
+    id:11,
+    name:'Loaded Salad',
+    kategori:'Salata',
+    resim:'https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=384&q=80',
+    fiyat:'700 tl',
+},
+{
+    id:12,
+    name:'Fruid Salad',
+    kategori:'Salata',
+    resim:'https://images.pexels.com/photos/1105166/pexels-photo-1105166.jpeg',
+    fiyat:'850 tl',
+},
+{
+    id:13,
+    name:'Wings',
+    kategori:'Tavuk',
+    resim:'https://plus.unsplash.com/premium_photo-1672498193267-4f0e8c819bc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80',
+    fiyat:'1000 tl',
+},
+{
+    id:14,
+    name:'Baked Chicken',
+    kategori:'Tavuk',
+    resim:'https://kristineskitchenblog.com/wp-content/uploads/2022/03/oven-baked-chicken-breast-19.jpg',
+    fiyat:'1100 tl',
+},
+{
+    id:15,
+    name:'Chicken Tenders',
+    kategori:'Tavuk',
+    resim:'https://images.unsplash.com/photo-1619019187211-adf2f6119afd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+    fiyat:'1200 tl',
+},
+{
+    id:16,
+    name:'Chicken Kebab',
+    kategori:'Tavuk',
+    resim:'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80',
+    fiyat:'1300 tl',
+},
+];
+
+export const kategoriler =[
+{
+    id:1,
+    ad:'Fast Food',
+    resim:'https://cdn-icons-png.flaticon.com/128/737/737967.png',
+
+},
+{
+    id:2,
+    ad:'Pizza',
+    resim:'https://cdn-icons-png.flaticon.com/128/3595/3595455.png',
+},
+{
+    id:3,
+    ad:'Kanat',
+    resim:'https://cdn-icons-png.flaticon.com/128/3931/3931450.png',
+},
+{
+    id:4,
+    ad:'Indian',
+    resim:'https://cdn-icons-png.flaticon.com/128/7019/7019595.png',
+},
+{
+    id:5,
+    ad:'Son Fırsatlar',
+    resim:'https://cdn-icons-png.flaticon.com/128/3433/3433915.png',
+},
+{
+    id:6,
+    ad:'Ödüller',
+    resim:'https://cdn-icons-png.flaticon.com/128/3098/3098984.png',
+},
+{
+    id:7,
+    ad:'En iyisi',
+    resim:'https://cdn-icons-png.flaticon.com/128/3511/3511391.png',
+},
+{
+    id:8,
+    ad:'Ücretsiz',
+    resim:'https://cdn-icons-png.flaticon.com/128/4947/4947265.png',
+},
+];
